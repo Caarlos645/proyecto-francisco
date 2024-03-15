@@ -1,0 +1,182 @@
+[
+    {
+        "id": "iphone-01",
+        "titulo": "Iphone XR",
+        "imagen": "./img/iphones/01.jpg",
+        "categoria": {
+            "nombre": "Iphones",
+            "id": "iphones"
+        },
+        "precio": 650
+    },
+    {
+        "id": "iphone-02",
+        "titulo": "Iphone 11",
+        "imagen": "./img/iphones/02.jpg",
+        "categoria": {
+            "nombre": "Iphones",
+            "id": "iphones"
+        },
+        "precio": 850
+    },
+    {
+        "id": "iphone-03",
+        "titulo": "Iphone 12",
+        "imagen": "./img/iphones/03.jpg",
+        "categoria": {
+            "nombre": "Iphones",
+            "id": "iphones"
+        },
+        "precio": 950
+    },
+    {
+        "id": "iphone-04",
+        "titulo": "Iphone 13",
+        "imagen": "./img/iphones/04.jpg",
+        "categoria": {
+            "nombre": "Iphones",
+            "id": "iphones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "iphone-05",
+        "titulo": "Iphone 14",
+        "imagen": "./img/iphones/05.jpg",
+        "categoria": {
+            "nombre": "Iphones",
+            "id": "iphones"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "samsung-01",
+        "titulo": "Samsung S22",
+        "imagen": "./img/samsungs/01.jpg",
+        "categoria": {
+            "nombre": "Samsungs",
+            "id": "samsungs"
+        },
+        "precio": 399
+    },
+    {
+        "id": "samsung-02",
+        "titulo": "Samsung Y9",
+        "imagen": "./img/samsungs/02.jpg",
+        "categoria": {
+            "nombre": "Samsungs",
+            "id": "samsungs"
+        },
+        "precio": 199
+    },
+    {
+        "id": "samsung-03",
+        "titulo": "Samsung S23",
+        "imagen": "./img/samsungs/03.jpg",
+        "categoria": {
+            "nombre": "Samsungs",
+            "id": "samsungs"
+        },
+        "precio": 749
+    },
+    {
+        "id": "samsung-04",
+        "titulo": "Samsung S24",
+        "imagen": "./img/samsungs/04.jpg",
+        "categoria": {
+            "nombre": "Samsungs",
+            "id": "samsungs"
+        },
+        "precio": 975
+    },
+    {
+        "id": "samsung-05",
+        "titulo": "Samsung S22 PRO",
+        "imagen": "./img/samsungs/05.jpg",
+        "categoria": {
+            "nombre": "Samsungs",
+            "id": "samsungs"
+        },
+        "precio": 599
+    },
+    {
+        "id": "samsung-06",
+        "titulo": "Samsung Y9 PRO",
+        "imagen": "./img/samsungs/06.jpg",
+        "categoria": {
+            "nombre": "Samsungs",
+            "id": "samsungs"
+        },
+        "precio": 398
+    },
+    {
+        "id": "samsung-07",
+        "titulo": "Samsung HY1",
+        "imagen": "./img/samsungs/07.jpg",
+        "categoria": {
+            "nombre": "Samsungs",
+            "id": "samsungs"
+        },
+        "precio": 239
+    },
+    {
+        "id": "samsung-08",
+        "titulo": "Samsung JP12",
+        "imagen": "./img/samsungs/08.jpg",
+        "categoria": {
+            "nombre": "Samsungs",
+            "id": "samsungs"
+        },
+        "precio": 199
+    },
+    {
+        "id": "xiaomi-01",
+        "titulo": "Xiami REDMI",
+        "imagen": "./img/xiaomis/01.jpg",
+        "categoria": {
+            "nombre": "Xiaomis",
+            "id": "xiaomis"
+        },
+        "precio": 299
+    },
+    {
+        "id": "xiaomi-02",
+        "titulo": "Xiaomi REDMI Note",
+        "imagen": "./img/xiaomis/02.jpg",
+        "categoria": {
+            "nombre": "Xiaomis",
+            "id": "xiaomis"
+        },
+        "precio": 350
+    },
+    {
+        "id": "xiaomi-03",
+        "titulo": "Xiaomi REDMI Note PRO",
+        "imagen": "./img/xiaomis/03.jpg",
+        "categoria": {
+            "nombre": "Xiaomis",
+            "id": "xiaomis"
+        },
+        "precio": 599
+    },
+    {
+        "id": "xiaomi-04",
+        "titulo": "Xiaomi Y9",
+        "imagen": "./img/xiaomis/04.jpg",
+        "categoria": {
+            "nombre": "Xiaomis",
+            "id": "xiaomis"
+        },
+        "precio": 198
+    },
+    {
+        "id": "xiaomi-05",
+        "titulo": "Xiaomi Y9 PRO",
+        "imagen": "./img/xiaomis/05.jpg",
+        "categoria": {
+            "nombre": "Xiaomis",
+            "id": "xiaomis"
+        },
+        "precio": 399
+    }
+]
